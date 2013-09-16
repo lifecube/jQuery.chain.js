@@ -1,0 +1,29 @@
+{
+    "name": "chain",
+    "title": "jQuery Chain",
+    "description": "jQuery plugin to chain async functions to execute sequencially, current function's return value or returned defered object resolve parameters will be transfer to next function as parameters.",
+    "keywords": [
+        "chain", "defered", "async", "sequencial", "sequence", "queue"
+    ],
+    "version": "0.5.0",
+    "author": {
+        "name": "lifecube",
+        "url": "https://github.com/lifecube"
+    },
+    "maintainers": [{
+        "name": "lifecube",
+        "email": "lifecube.me@gmail.com",
+        "url": "https://github.com/lifecube"
+    }],
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/lifecube/jQuery.chain.js/blob/master/LICENSE"
+    }],
+    "bugs": "https://github.com/lifecube/jQuery.chain.js/issues",
+    "homepage": "https://github.com/lifecube/jQuery.chain.js",
+    "docs": "https://github.com/lifecube/jQuery.chain.js",
+    "download": "https://github.com/lifecube/jQuery.chain.js",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
