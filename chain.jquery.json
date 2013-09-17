@@ -22,7 +22,7 @@
     "bugs": "https://github.com/lifecube/jQuery.chain.js/issues",
     "homepage": "https://github.com/lifecube/jQuery.chain.js",
     "docs": "https://github.com/lifecube/jQuery.chain.js",
-    "download": "https://github.com/lifecube/jQuery.chain.js",
+    "download": "https://github.com/lifecube/jQuery.chain.js/releases",
     "dependencies": {
         "jquery": ">=1.8"
     }
