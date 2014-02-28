@@ -30,4 +30,4 @@
 		_chain();
 		return rootDfd.promise();
 	};
-}(jQuery));
+})(jQuery);
